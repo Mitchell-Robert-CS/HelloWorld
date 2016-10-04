@@ -5,7 +5,7 @@ this is a test to see if its good
 lel jk
 ### Still adding some headers
 *italics font*
-#### **somefunny sith... _efnerofnr_*
+#### **somefunny sith... _efnerofnr_**
 ##### There are alot of pounds
 ###### No there isnt
 ###### Yes there is
